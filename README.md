@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fabian Andres Parra Sanchez - @Andeveling
 - 👀 I’m interested in learn  new skills in web developer frontend and blockchain technology.
-- 🌱 I’m currently learning Html - CSS - Javascript - ReactJS - ReactRouter - Redux.
+- 🌱 I’m currently learning Html - CSS - Javascript - ReactJS - Redux-Toolkit - RTK Query.
 - 💞️ I’m looking to collaborate on new projects with my fellow students.
 - 📫 How to reach me andeveling@gmail.com...
 
