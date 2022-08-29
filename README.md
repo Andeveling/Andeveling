@@ -9,7 +9,7 @@ I am a fullstack web developer who learns something new every day, after years o
 - Student at platzi latam.
 
 ## ⚡ Technologies
-Talk to me about
+
 - Front-end development using **React, Redux-Toolkit**
 - Backend development using **Node, Express, Sequelize**
 - Full-stack **PERN** stack  implementation
