@@ -2,7 +2,7 @@
 I am a person for whom programming has always been a hobby and today dreams of making it his profession.
 
 ## 🧐 About
-I am Fabián Andrés Parra Sánchez, a fullstack web developer who learns something new every day, after years of having programming as a hobby, I wanted to change my life by joining a Bootcamp where I have learned about web development and I am putting everything into practice.
+I am Fabián Andrés Parra Sánchez, a fullstack web developer who learns something new every day, after years of having programming as a hobby, I wanted to change my life by starting to study in a self-taught way, and then join a Bootcamp where I have learned about development web and today I am putting everything into practice.
 
 ## 📢 Communities
 - Student at henryBootcamp and active member on slack.
