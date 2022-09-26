@@ -8,8 +8,10 @@ I am Fabián Andrés Parra Sánchez, a fullstack web developer who learns someth
 - Student at henryBootcamp and active member on slack.
 - Student at platzi latam.
 
-## ⚡ Technologies
+## ⚡ Technologies and Skills
 
+- Web **Html, Css, Javascript**
+- Scrum
 - Front-end development using **React, Redux-Toolkit**
 - Backend development using **Node, Express, Sequelize**
 - Full-stack **PERN** stack  implementation
