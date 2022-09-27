@@ -1,7 +1,9 @@
 # 👋 Andrés Parra - @Andeveling 😃
 I am a person for whom programming has always been a hobby and today dreams of making it his profession.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andeveling&show_icons=true&theme=great-gatsby)
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andeveling&show_icons=true&theme=great-gatsby) 
+
 
 ## 🧐 About
 I am Fabián Andrés Parra Sánchez, a fullstack web developer who learns something new every day, after years of having programming as a hobby, I wanted to change my life by starting to study in a self-taught way, and then join a Bootcamp where I have learned about development web and today I am putting everything into practice.
@@ -11,7 +13,7 @@ I am Fabián Andrés Parra Sánchez, a fullstack web developer who learns someth
 - Student at platzi latam.
 
 ## ⚡ Technologies and Skills
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andeveling&layout=compact&theme=great-gatsby)](https://github.com/andeveling/github-readme-stats)
 - Web **Html, Css, Javascript**
 - Scrum
 - Front-end development using **React, Redux-Toolkit**
