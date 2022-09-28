@@ -2,7 +2,7 @@
 I am a person for whom programming has always been a hobby and today dreams of making it his profession.
 
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andeveling&show_icons=true&theme=great-gatsby) 
+ ![Andeveling GitHub stats](https://github-readme-stats.vercel.app/api?username=andeveling&show_icons=true&theme=great-gatsby) 
 
 
 ## 🧐 About
