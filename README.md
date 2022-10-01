@@ -1,4 +1,5 @@
 # 👋 Andrés Parra - @Andeveling 😃
+HTML | CSS | Javascript | Reactjs | Typescript | Redux-Toolkit | MUI | NextUI | NodeJs | ExpressJs | MongoDB | PostgreSQL | Sequelize | Mongoose | Scrum | Git-Flow | Eslint
  ![Andeveling GitHub stats](https://github-readme-stats.vercel.app/api?username=andeveling&show_icons=true&theme=great-gatsby) 
 
 
