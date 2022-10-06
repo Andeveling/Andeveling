@@ -9,8 +9,8 @@ HTML | CSS | Javascript | Reactjs | Typescript | Redux-Toolkit | MUI | NextUI | 
 Web developer con sólidos conocimientos en el frontend ReactJs, Typescript, Html, Css, Javascript, ES6+, Redux, Webpack, ViteJs, MUI, NextUI. Experiencia trabajando del lado del backend en NodeJs, ExpressJs, Sequelize, PostgreSQL entre otras tecnologías del sector. Participé en un proyecto grupal bajo la metodología Scrum en un ecommerce, aportando el desarrollo del panel de usuario y el sistema de reviews, que permitió tener una mejor UI/UX para los servicios o acciones del consumidor sobre su cuenta, mejorando considerablemente la experiencia de usuario. Adicionalmente configure el proyecto e incentive a los demás colaboradores a tener buenas prácticas y clean architecture.
 
 ## 📢 Comunidades
-- Student at henryBootcamp and active member on slack.
-- Student at platzi latam.
+- Estudiante en henryBootcamp y activo miembro del Slack de la comunidad.
+- Estudiante en Platzi Latam.
 
 ## ⚡ Tecnologías y Habilidades
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andeveling&layout=compact&theme=great-gatsby)](https://github.com/andeveling/github-readme-stats)
