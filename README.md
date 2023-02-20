@@ -1,12 +1,13 @@
 # 👋 Andrés Parra - @Andeveling 😃
-HTML | CSS | Javascript | Reactjs | Typescript | Redux-Toolkit | MUI | NextUI | Scrum | Git-Flow | Eslint
+HTML | CSS | Javascript | React Js | Next Js | Typescript | Redux-Toolkit | MUI | NextUI | TailwindCSS | Scrum | Git-Flow | Eslint
 
 ##
  ![Andeveling GitHub stats](https://github-readme-stats.vercel.app/api?username=andeveling&show_icons=true&theme=great-gatsby) 
 
 
 ## 🧐 Sobre mí
-Web developer con sólidos conocimientos en el frontend ReactJs, Typescript, Html, Css, Javascript, ES6+, Redux, Webpack, ViteJs, MUI, NextUI. Experiencia trabajando del lado del backend en NodeJs, ExpressJs, Sequelize, PostgreSQL entre otras tecnologías del sector. Participé en un proyecto grupal bajo la metodología Scrum en un ecommerce, aportando el desarrollo del panel de usuario y el sistema de reviews, que permitió tener una mejor UI/UX para los servicios o acciones del consumidor sobre su cuenta, mejorando considerablemente la experiencia de usuario. Adicionalmente configure el proyecto e incentive a los demás colaboradores a tener buenas prácticas y clean architecture.
+Desarrollador web frontend con un año y medio de experiencia utilizando tecnologías como Html, Css, Javascript, ReactJs, NextJs, Typescript, ES6+, Redux-Toolkit, MUI, NextU, entre otras. Me apasiona darle vida a los diseños y ofrecer la mejor experiencia de usuario, esto lo logró con un aprendizaje continuo, y actualizado mi stack de tecnologías, me motiva el poder mejorar constantemente, descubrir nuevas herramientas y el trabajo en equipo, cuidar cada detalle es mi prioridad. Actualmente, estoy trabajando en proyectos de desarrollo de herramientas para problemas cotidianos de empresas del sector de la construcción, utilizando Next Js como framework principal. Además de mis habilidades técnicas, poder trabajar en equipo y la resolución de problemas. Destaco sobre todo con muchas ganas de ayudar, enseñar y seguir aprendiendo, para así fortalecer y ampliar mis habilidades. 
+
 
 ## 📢 Comunidades
 - Estudiante en henryBootcamp y activo miembro del Slack de la comunidad.
@@ -21,8 +22,8 @@ Web developer con sólidos conocimientos en el frontend ReactJs, Typescript, Htm
 - Full-stack **PERN** stack  implementation
 
 ## 👀 Estoy interesado en
-- Estoy interesado en aprender y dominar nuevas tecnologías, Typescript, RTK Query
-- Learn new skills in web developer Front-end, Back-end and blockchain technology.
+- Estoy interesado en mejorar mis habilidades como frontend developer
+- Learn new skills in web developer Front-end and blockchain technology.
 
 
 ## 📫 Contactame
