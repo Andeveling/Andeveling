@@ -5,15 +5,19 @@ HTML | CSS | Javascript | React Js | Next Js | Typescript | Redux-Toolkit | MUI 
  ![Andeveling GitHub stats](https://github-readme-stats.vercel.app/api?username=andeveling&show_icons=true&theme=great-gatsby) 
 
 
-## 🧐 Sobre mí
-Desarrollador web frontend con un año y medio de experiencia utilizando tecnologías como Html, Css, Javascript, ReactJs, NextJs, Typescript, ES6+, Redux-Toolkit, MUI, NextU, entre otras. Me apasiona darle vida a los diseños y ofrecer la mejor experiencia de usuario, esto lo logró con un aprendizaje continuo, y actualizado mi stack de tecnologías, me motiva el poder mejorar constantemente, descubrir nuevas herramientas y el trabajo en equipo, cuidar cada detalle es mi prioridad. Actualmente, estoy trabajando en proyectos de desarrollo de herramientas para problemas cotidianos de empresas del sector de la construcción, utilizando Next Js como framework principal. Además de mis habilidades técnicas, poder trabajar en equipo y la resolución de problemas. Destaco sobre todo con muchas ganas de ayudar, enseñar y seguir aprendiendo, para así fortalecer y ampliar mis habilidades. 
+## 🧐 About me
+I'm Andrés Parra, a passionate frontend developer with nearly two years of experience working with cutting-edge technologies such as HTML, CSS, JavaScript, TypeScript, React JS, Next JS, ES6+, Redux-Toolkit, MUI, and NextUI. My ultimate goal is to bring designs to life and deliver the best possible user experience by staying up-to-date with the latest technology trends and continuously learning.
+What motivates me is the constant drive to improve my craft, discover new tools, and work collaboratively with others. I believe that attention to detail is key to producing high-quality work. Currently, I'm collaborating with a construction industry company on a project that's tailored to their specific needs. To achieve this, we're using NextJS as the main framework for the frontend, while Strapi powers the backend.
+Apart from my technical expertise, I take great pride in my ability to work efficiently in teams and solve complex problems. I'm always eager to lend a helping hand, mentor others, and continue learning to expand and enhance my skill set.
 
 
-## 📢 Comunidades
-- Estudiante en henryBootcamp y activo miembro del Slack de la comunidad.
-- Estudiante en Platzi Latam.
 
-## ⚡ Tecnologías y Habilidades
+## 📢 Communities
+- Gentleman Programing active member in discord
+- Student in henryBootcamp and active member in the Slack of the community.
+- Studen in Platzi Latam.
+
+## ⚡ Technologies and Skills
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andeveling&layout=compact&theme=great-gatsby)](https://github.com/andeveling/github-readme-stats)
 - Web **Html, Css, Javascript**
 - Scrum
@@ -21,15 +25,15 @@ Desarrollador web frontend con un año y medio de experiencia utilizando tecnolo
 - Backend development using **Node, Express, Sequelize**
 - Full-stack **PERN** stack  implementation
 
-## 👀 Estoy interesado en
-- Estoy interesado en mejorar mis habilidades como frontend developer
+## 👀 I'm interested in
+- Improve my skills as a frontend developer.
 - Learn new skills in web developer Front-end and blockchain technology.
 
 
-## 📫 Contactame
+## 📫 Contact
 - Twitter - [@andeveling](https://twitter.com/Andeveling)
 - LinkedIn - [Fabián Andrés Parra Sánchez](https://www.linkedin.com/in/fabi%C3%A1n-andr%C3%A9s-parra-s%C3%A1nchez-0a267a18a/)
-- mail - andeveling@gmail.com
+- email - andeveling@gmail.com
 
 ---
 ⭐️ From [gc-codes](https://github.com/gc-codes)
