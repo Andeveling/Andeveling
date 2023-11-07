@@ -1,39 +1,93 @@
-# 👋 Andrés Parra - @Andeveling 😃
-HTML | CSS | Javascript | React Js | Next Js | Typescript | Redux-Toolkit | MUI | NextUI | TailwindCSS | Scrum | Git-Flow | Eslint
+# 👋 Andrés Parra - Full Stack Developer
 
-##
- ![Andeveling GitHub stats](https://github-readme-stats.vercel.app/api?username=andeveling&show_icons=true&theme=great-gatsby) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andr%C3%A9s_Parra-blue)](https://www.linkedin.com/in/tuusuario)
+[![GitHub](https://img.shields.io/badge/GitHub-Andeveling-green)](https://github.com/andeveling)
+[![Website](https://img.shields.io/badge/Website-andeveling.vercel.app-orange)](https://andeveling.vercel.app)
+[![Email](https://img.shields.io/badge/Email-andeveling%40gmail.com-red)](mailto:andeveling@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B57%20300%20774%203602-lightgrey)](tel:+573007743602)
+
+## 👨‍💻 About Me
+
+I'm Andrés Parra, a passionate Full Stack Developer with a focus on both frontend and backend technologies. With nearly two years of experience, I've worked on a wide range of projects using tools like React, Next, Node, and PostgreSQL in the frontend, and Node, Nest, and Express in the backend.
+
+My ultimate goal is to bring designs to life and deliver exceptional user experiences. I believe that attention to detail is key to producing high-quality work.
+
+In addition to my technical skills, I excel in teamwork, effective communication, and problem-solving. I'm always eager to learn and mentor others. Currently, I'm collaborating with a construction industry company to develop a tailored project using NextJS for the frontend and Strapi for the backend.
+
+I'm passionate about continuous learning and staying up-to-date with the latest market trends, and I'm excited to contribute my skills to your team.
 
 
-## 🧐 About me
-I'm Andrés Parra, a passionate frontend developer with nearly two years of experience working with cutting-edge technologies such as HTML, CSS, JavaScript, TypeScript, React JS, Next JS, ES6+, Redux-Toolkit, MUI, and NextUI. My ultimate goal is to bring designs to life and deliver the best possible user experience by staying up-to-date with the latest technology trends and continuously learning.
-What motivates me is the constant drive to improve my craft, discover new tools, and work collaboratively with others. I believe that attention to detail is key to producing high-quality work. Currently, I'm collaborating with a construction industry company on a project that's tailored to their specific needs. To achieve this, we're using NextJS as the main framework for the frontend, while Strapi powers the backend.
-Apart from my technical expertise, I take great pride in my ability to work efficiently in teams and solve complex problems. I'm always eager to lend a helping hand, mentor others, and continue learning to expand and enhance my skill set.
+## 💼 Skills
 
+- **Frontend:** React, Next, Astro, Redux, HTML, CSS, JavaScript, TypeScript, Material UI, Tailwind CSS, Next UI, Flowbite
+- **Backend:** Nest, Node, Express, Strapi CMS, tRPC, TypeORM, Prisma, Sequelize, PostgreSQL, Mongoose, MongoDB, Firebase
+- **Soft Skills:** Team Player, Effective communication, Problem-Solving, Passion for learning
+- **Extras:** Scrum, Kanban, Git Flow, Clean Architecture, POO, Design Patterns, Spanish (Native), English (A2)
 
+## 🛠️ Tools
 
-## 📢 Communities
-- Gentleman Programing active member in discord
-- Student in henryBootcamp and active member in the Slack of the community.
-- Studen in Platzi Latam.
+- **Development:** Git, GitHub, Visual Studio Code, Trello, Notion
+- **Operating Systems:** Windows
+- **Communication:** Discord
+- **Additional:** Notion
 
-## ⚡ Technologies and Skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andeveling&layout=compact&theme=great-gatsby)](https://github.com/andeveling/github-readme-stats)
-- Web **Html, Css, Javascript**
-- Scrum
-- Front-end development using **React, Redux-Toolkit**
-- Backend development using **Node, Express, Sequelize**
-- Full-stack **PERN** stack  implementation
+## 🚀 Experience
 
-## 👀 I'm interested in
-- Improve my skills as a frontend developer.
-- Learn new skills in web developer Front-end and blockchain technology.
+### Full Stack Developer
+- **Arqustik SAS** - Cali, Colombia
+- _10/2022 – 07/2023_
+  - Led meetings to gather ideas for application planning and design, bridging sales and management.
+  - Designed and developed a full-stack web app for project quotes, reducing quote generation time from 72 hours to 1 minute.
+  - Currently working on expanding the app to include "Client Management" and "Project Management" features.
+  - Designed an intuitive catalog for product selection using Next.js, Tailwind CSS, Flowbite, and Vercel.
+  - Developed a scalable API for managing customer data, projects, and manufacturing cost calculations using Strapi, PostgreSQL, and Railway.
+  - Created a module for personalized client service, improving lead conversion rates and customer retention.
+  - Conducted training sessions for staff, gathered feedback, and implemented improvements.
 
+### Independent Freelancer
+- _Freelance_ - Colombia
+- _11/2021 – 06/2022_
+  - Designed and developed client websites, focusing on modern technologies and responsive design.
+  - Provided consultation on design and hosting to align with client requests and business needs.
+
+## 📚 Education
+
+- **Software Analysis and Development**
+  - **SENA Colombia**
+  - _05/2023 – Present_
+  - Focusing on designing, developing, implementing, and maintaining information systems.
+
+- **Full Stack Developer**
+  - **Henry Bootcamp** - Buenos Aires, AR
+  - _06/2022 – 10/2022_
+  - Specialized in the P.E.R.N. Stack (PostgreSQL, Express, React, Node) for Single Page Applications.
+
+- **Self-Taught Learning**
+  - _Online Platforms_
+  - _06/2021 – Present_
+  - Continuously learning and improving skills as a web developer to stay up-to-date with industry trends.
+
+## 🌟 Projects
+
+- **Nuggets-Projects**
+  - [GitHub Repository](https://github.com/andeveling/nuggets-projects)
+  - A collection of projects used to learn and apply various concepts and technologies. Ongoing since 06/2020.
+
+## 🏆 Honors and Awards
+
+- **Effort Recognition Hackathon 2022**
+  - Recognized for completing the Hackathon application with minimal requirements within the allotted time. (10/2022)
+
+## 🌐 Languages
+
+- **Certificate of English Language A2**
+  - English is A2 ELEMENTARY according to the guidelines set by the Common European Framework of Reference (CEFR).
+  - 34 Pass Points (11/2022)
 
 ## 📫 Contact
-- Twitter - [@andeveling](https://twitter.com/Andeveling)
-- LinkedIn - [Fabián Andrés Parra Sánchez](https://www.linkedin.com/in/fabi%C3%A1n-andr%C3%A9s-parra-s%C3%A1nchez-0a267a18a/)
-- email - andeveling@gmail.com
 
----
-⭐️ From [gc-codes](https://github.com/gc-codes)
+- Twitter: [@andeveling](https://twitter.com/Andeveling)
+- LinkedIn: [Fabián Andrés Parra Sánchez](https://www.linkedin.com/in/fabi%C3%A1n-andr%C3%A9s-parra-s%C3%A1nchez-0a267a18a/)
+- Email: [andeveling@gmail.com](mailto:andeveling@gmail.com)
+- Phone: +57 300 774 3602
+
