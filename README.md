@@ -8,13 +8,13 @@
 
 ## 👨‍💻 About Me
 
-I'm Andrés Parra, a passionate Full Stack Developer with a focus on both frontend and backend technologies. With nearly two years of experience, I've worked on a wide range of projects using tools like React, Next, Node, and PostgreSQL in the frontend, and Node, Nest, and Express in the backend.
+I'm Andrés Parra, a passionate Full Stack Developer with experience in both frontend and backend technologies. With nearly two years of expertise, I've contributed to diverse projects using tools like React, Next, Node, and PostgreSQL on the frontend, and Node, Nest, and Express on the backend.
 
-My ultimate goal is to bring designs to life and deliver exceptional user experiences. I believe that attention to detail is key to producing high-quality work.
+My primary goal is to bring designs to life and deliver exceptional user experiences. I believe meticulous attention to detail is key to producing high-quality work.
 
-In addition to my technical skills, I excel in teamwork, effective communication, and problem-solving. I'm always eager to learn and mentor others. Currently, I'm collaborating with a construction industry company to develop a tailored project using NextJS for the frontend and Strapi for the backend.
+In addition to my technical skills, I excel in teamwork, effective communication, and problem-solving. I'm always eager to learn and mentor others. In my most recent significant role, I collaborated on developing solutions using NextJS for the frontend and Strapi for the backend.
 
-I'm passionate about continuous learning and staying up-to-date with the latest market trends, and I'm excited to contribute my skills to your team.
+I'm passionate about continuous learning, staying up-to-date with the latest market trends, and I'm excited to contribute my skills to your team.
 
 
 ## 💼 Skills
