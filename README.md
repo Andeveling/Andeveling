@@ -1,6 +1,6 @@
 # 👋 Andrés Parra - Full Stack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andr%C3%A9s_Parra-blue)](https://www.linkedin.com/in/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Andr%C3%A9s_Parra-blue)](https://www.linkedin.com/in/andrespsanchez/)
 [![GitHub](https://img.shields.io/badge/GitHub-Andeveling-green)](https://github.com/andeveling)
 [![Website](https://img.shields.io/badge/Website-andeveling.vercel.app-orange)](https://andeveling.vercel.app)
 [![Email](https://img.shields.io/badge/Email-andeveling%40gmail.com-red)](mailto:andeveling@gmail.com)
