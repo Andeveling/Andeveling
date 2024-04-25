@@ -13,6 +13,8 @@
 
 ## 💼 Skills
 
+- **🌟Stack Principal:** ReactJs, NextJs, TypeScript, NodeJs, Express, NestJs, PostgreSQL
+
 - **Frontend:** React, Next, Astro, Redux, HTML, CSS, JavaScript, TypeScript, Material UI, Tailwind CSS, Next UI, Flowbite
 - **Backend:** Nest, Node, Express, Strapi CMS, tRPC, TypeORM, Prisma, Sequelize, PostgreSQL, Mongoose, MongoDB, Firebase
 - **Soft Skills:** Team Player, Effective communication, Problem-Solving, Passion for learning
