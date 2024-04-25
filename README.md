@@ -1,4 +1,4 @@
-# 👋 Andrés Parra - Full Stack Developer
+# 👋 Andrés Parra - Desarrollador Full Stack 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Andr%C3%A9s_Parra-blue)](https://www.linkedin.com/in/andrespsanchez/)
 [![GitHub](https://img.shields.io/badge/GitHub-Andeveling-green)](https://github.com/andeveling)
@@ -8,13 +8,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Andrés Parra, a passionate Full Stack Developer with experience in both frontend and backend technologies. With nearly two years of expertise, I've contributed to diverse projects using tools like React, Next, Node, and PostgreSQL on the frontend, and Node, Nest, and Express on the backend.
-
-My primary goal is to bring designs to life and deliver exceptional user experiences. I believe meticulous attention to detail is key to producing high-quality work.
-
-In addition to my technical skills, I excel in teamwork, effective communication, and problem-solving. I'm always eager to learn and mentor others. In my most recent significant role, I collaborated on developing solutions using NextJS for the frontend and Strapi for the backend.
-
-I'm passionate about continuous learning, staying up-to-date with the latest market trends, and I'm excited to contribute my skills to your team.
++2 años de experiencia como Desarrollador Web. Actualmente soy estudiante de Análisis y Desarrollo de Software en el SENA y apoyo a mis compañeros enseñando programación. Vivo en Buga, Colombia. He trabajado como freelance: desarrollando una web app para una empresa de construcción, paginas estáticas, blogs, landing pages y e-commerce.
 
 
 ## 💼 Skills
@@ -27,64 +21,59 @@ I'm passionate about continuous learning, staying up-to-date with the latest mar
 ## 🛠️ Tools
 
 - **Development:** Git, GitHub, Visual Studio Code, Trello, Notion
-- **Operating Systems:** Windows
+- **Operating Systems:** Linux Ubuntu, Windows
 - **Communication:** Discord
 - **Additional:** Notion
 
-## 🚀 Experience
+## 🚀 Experiencia laboral
 
-### Full Stack Developer
+### Desarrollador de Producto y Software
 - **Arqustik SAS** - Cali, Colombia
-- _10/2022 – 07/2023_
-  - Led meetings to gather ideas for application planning and design, bridging sales and management.
-  - Designed and developed a full-stack web app for project quotes, reducing quote generation time from 72 hours to 1 minute.
-  - Currently working on expanding the app to include "Client Management" and "Project Management" features.
-  - Designed an intuitive catalog for product selection using Next.js, Tailwind CSS, Flowbite, and Vercel.
-  - Developed a scalable API for managing customer data, projects, and manufacturing cost calculations using Strapi, PostgreSQL, and Railway.
-  - Created a module for personalized client service, improving lead conversion rates and customer retention.
-  - Conducted training sessions for staff, gathered feedback, and implemented improvements.
+- 2022 - 2023
+Durante mi tiempo como Desarrollador Full Stack en Arqustik SAS en Cali, lideré el diseño y desarrollo de un MVP de una aplicación web full-stack para transformar el proceso de cotización. A pesar de quedarnos estancados en la etapa inicial debido a restricciones presupuestarias, implementamos con éxito un catálogo de productos y una API escalable utilizando tecnologías como Next.js, Tailwind CSS, Strapi y PostgreSQL. Además, desarrollé un módulo para conectar clientes potenciales con representantes de ventas, lo que podría mejorar la experiencia del cliente y aumentar las tasas de conversión. También facilité reuniones estratégicas entre el equipo de ventas y la alta dirección, y proporcioné sesiones de capacitación virtual para garantizar una comprensión completa de la herramienta.
+ 
 
-### Independent Freelancer
-- _Freelance_ - Colombia
-- _11/2021 – 06/2022_
-  - Designed and developed client websites, focusing on modern technologies and responsive design.
-  - Provided consultation on design and hosting to align with client requests and business needs.
+### Freelancer
+Implementé páginas web y tiendas en línea (e-commerce) desde cero, haciendo uso primordialmente de WordPress. Integré plantillas disponibles en el mercado y realicé ajustes para optimizar el contenido en dispositivos móviles y diversos navegadores, asegurando así una experiencia de usuario óptima. Además, brindé consultas personalizadas a los clientes, ofreciendo sugerencias de diseño y recomendaciones de alojamiento para crear sitios adaptados a sus necesidades empresariales. Mi enfoque se centró en utilizar WordPress y WooCommerce para desarrollar soluciones efectivas y visualmente atractivas.
 
-## 📚 Education
+## 📚 Educación
 
-- **Software Analysis and Development**
-  - **SENA Colombia**
-  - _05/2023 – Present_
-  - Focusing on designing, developing, implementing, and maintaining information systems.
+- **Servicio Nacional de Aprendizaje SENA**
+  *2022 - 2025*
+  Análisis y Desarrollo de Software
 
-- **Full Stack Developer**
-  - **Henry Bootcamp** - Buenos Aires, AR
-  - _06/2022 – 10/2022_
-  - Specialized in the P.E.R.N. Stack (PostgreSQL, Express, React, Node) for Single Page Applications.
+- **Henry Bootcamp**
+  *2022 - 2025*
+  Desarrollo Web Full Stack
 
-- **Self-Taught Learning**
-  - _Online Platforms_
-  - _06/2021 – Present_
-  - Continuously learning and improving skills as a web developer to stay up-to-date with industry trends.
+- **Plazi**
+  *2021 - Actual*
+  Desarrollo Web Full Stack
 
-## 🌟 Projects
+
+## 🌟 Proyectos
 
 - **Nuggets-Projects**
-  - [GitHub Repository](https://github.com/andeveling/nuggets-projects)
-  - A collection of projects used to learn and apply various concepts and technologies. Ongoing since 06/2020.
+  - [Repositorio en GitHub](https://github.com/andeveling/nuggets-projects)
+  - Una colección de proyectos utilizados para aprender y aplicar diversos conceptos y tecnologías. En curso desde 06/2020.
 
-## 🏆 Honors and Awards
+## 🏆 Reconociminetos y Premios
 
-- **Effort Recognition Hackathon 2022**
-  - Recognized for completing the Hackathon application with minimal requirements within the allotted time. (10/2022)
+- **Reconocimiento a la Excelencia Académica SENA**
+  - Reconocido por excelencia académica en la carrera de Análisis y Desarrollo de Software. (04/2024)
+    
+- **Reconocimineto al esfuerzo Hackathon 2022**
+  - Reconocido por completar la aplicación del Hackatón con los requisitos mínimos dentro del tiempo asignado. (10/2022)
+ 
+    
 
-## 🌐 Languages
+## 🌐 Lenguages
 
-- **Certificate of English Language A2**
-  - English is A2 ELEMENTARY according to the guidelines set by the Common European Framework of Reference (CEFR).
-  - 34 Pass Points (11/2022)
+- **Certificado en Inglés A2**
+  - El inglés es A2 ELEMENTARY según las pautas establecidas por el Marco Común Europeo de Referencia (MCER).
+  - 34 Puntos de Aprobación (11/2022)
 
-## 📫 Contact
+## 📫 Contacto
 
 - Twitter: [@andeveling](https://twitter.com/Andeveling)
 - LinkedIn: [Fabián Andrés Parra Sánchez](https://www.linkedin.com/in/fabi%C3%A1n-andr%C3%A9s-parra-s%C3%A1nchez-0a267a18a/)
