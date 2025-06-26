@@ -8,31 +8,36 @@
 
 ## 👨‍💻 About Me
 
-+2 años de experiencia como Desarrollador Web. Actualmente soy estudiante de Análisis y Desarrollo de Software en el SENA y apoyo a mis compañeros enseñando programación. Vivo en Buga, Colombia. He trabajado como freelance: desarrollando una web app para una empresa de construcción, paginas estáticas, blogs, landing pages y e-commerce.
-
++4 años de experiencia como Desarrollador Web Full Stack.  
+Desde el 16 de julio de 2024 trabajo en **nojau**, donde desarrollo soluciones con Laravel, InertiaJS, React (JSX,TSX), Material UI y Zustand.  
+Apasionado por la empatía y la acción estratégica; siempre busco convertir ideas en proyectos concretos y alineados con mis valores.
 
 ## 💼 Skills
 
+🌟 **Stack Principal:**  
+- Frontend: React, Next.js, Astro, Material UI, Tailwind CSS, Next UI, Flowbite, JSX, Zustand  
+- Backend: Laravel, Node.js, Express, NestJS, Strapi, tRPC  
 
-🌟 **Stack Principal:** ReactJs, NextJs, TypeScript, NodeJs, Express, NestJs, PostgreSQL
+🛠️ **Base de Datos & ORM:** PostgreSQL, MongoDB, TypeORM, Prisma, Sequelize, Mongoose  
 
-🖥️ **Frontend:** React, Next, Astro, Redux, HTML, CSS, JavaScript, TypeScript, Material UI, Tailwind CSS, Next UI, Flowbite
-
-🛠️ **Backend:** Nest, Node, Express, Strapi CMS, tRPC, TypeORM, Prisma, Sequelize, PostgreSQL, Mongoose, MongoDB, Firebase
-
-🧠 **Soft Skills:** Trabajo en equipo, Comunicación efectiva, Resolución de problemas, Pasión por el aprendizaje
-
-🌟 **Extras:** Scrum, Kanban, Git Flow, Clean Architecture, POO, Design Patterns, Spanish (Native), English (A2)
-
-
-## 🛠️ Tools
-
-- **Development:** Git, GitHub, Visual Studio Code, Trello, Notion
-- **Operating Systems:** Linux Ubuntu, Windows
-- **Communication:** Discord
-- **Additional:** Notion
+🧠 **Soft Skills (High5):**  
+- **Empatizador:** Conecto genuinamente con usuarios y compañeros.  
+- **Catalizador:** Lanzo ideas y proyecto sin esperar el momento perfecto.  
+- **Estratega:** Analizo el panorama y anticipo obstáculos.  
+- **Creyente:** Guío mis decisiones por valores e integridad.  
+- **Resolutor de Problemas:** Me enfoco en soluciones prácticas y eficaces.
 
 ## 🚀 Experiencia laboral
+
+### Desarrollador Web Full Stack
+- **Nojau** – Remoto / Buga, Colombia  
+- Jul 2024 – Actualidad  
+En Nojau aplico un enfoque full-stack usando Laravel e InertiaJS en el backend y React/Next.js en el frontend. Trabajo con Jira y Scrumban para planificar y priorizar el backlog, facilitar reuniones diarias y revisar el avance de cada sprint. Mis logros incluyen:
+
+- Implementación de APIs RESTful con Laravel, validación de datos y control de acceso.  
+- Creación de páginas SSR/SSG en Next.js y componentes interactivos en React, manteniendo la consistencia de estado con Zustand y una UI mejorada con Material UI.    
+- Revisión de código, documentación de arquitectura y optimización de performance, garantizando entregas puntuales y código mantenible.
+
 
 ### Desarrollador de Producto y Software
 - **Arqustik SAS** - Cali, Colombia
